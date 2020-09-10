@@ -9,7 +9,7 @@
 .contenu {
 
     text-align: center;
-    background-color: orange;
+    background-color: orange;       
     height: 673px;
     padding-top: 20px
 
@@ -17,7 +17,7 @@
 
 .footer {
 
-    text-align: center;
+    text-align: center;     
     background-color: palegreen;
     height: 100px;
     padding-top: 30px;
