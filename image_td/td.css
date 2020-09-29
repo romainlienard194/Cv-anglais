@@ -46,3 +46,11 @@ html {
   float: left;
   margin: 1px
 }
+
+.photos img {
+  display: block;
+}
+
+.photos td {
+  text-align: center;
+}
