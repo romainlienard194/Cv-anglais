@@ -1,0 +1,43 @@
+#menu{
+    border: 2px solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+}
+
+.presentation{
+    text-align: center;
+    line-height: 20%;
+    font-size: 130%;
+    color:
+}
+
+
+.h1{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(92, 113, 207);
+}
+
+
+.titre1, .titre2, .titre3, .titre4, .titre5{
+    color: rgb(92, 113, 207);
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+}
+
+p, table{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.espaceligne{
+    border-spacing: 10%;
+}
