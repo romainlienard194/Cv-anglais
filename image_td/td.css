@@ -68,3 +68,7 @@ hr{
   background-color: #dfff4f;
   height: 10px;
 }
+
+.float{
+  float: left;
+}
