@@ -5,11 +5,19 @@
     background-color: white;
 }
 
+html{
+    font-family: cursive;
+    background-color: antiquewhite;
+}
+
+hr{
+    background-color: rgb(106, 112, 148);
+}
+
 .presentation{
     text-align: center;
     line-height: 20%;
     font-size: 130%;
-    color:
 }
 
 
@@ -32,12 +40,19 @@
     border-color:black;
 }
 
-p, table{
+table{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+}
+
+p{
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
+    font-size: 20px;
 }
 
 .espaceligne{
-    border-spacing: 10%;
+    border-spacing: 20px;
 }
