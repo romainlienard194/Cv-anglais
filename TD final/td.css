@@ -70,5 +70,9 @@ hr{
 }
 
 .float{
-  float: left;
+  text-align: center;
+}
+
+.centre{
+  margin: auto;
 }
